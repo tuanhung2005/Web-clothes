@@ -4,9 +4,9 @@ Chào mừng bạn đến với dự án của Nhóm 4! Chúng tôi là một nh
 
 Thành viên nhóm:
 
-Nguyễn Tuấn Hưng
-Vương Gia Huy
-Bùi Tuấn Anh
-Nguyễn Huy Hoàng
+Nguyễn Tuấn Hưng<br>
+Vương Gia Huy<br>
+Bùi Tuấn Anh<br>
+Nguyễn Huy Hoàng<br>
 
 Thông qua dự án này, chúng tôi hy vọng cung cấp cho khách hàng những sản phẩm thời trang chất lượng, với đa dạng kiểu dáng và phong cách phù hợp với mọi lứa tuổi. Đồng thời, trang web còn có các tính năng như phân loại sản phẩm, tìm kiếm theo sở thích, và giỏ hàng tiện lợi, mang lại sự thoải mái và nhanh chóng cho người dùng trong quá trình mua sắm.
