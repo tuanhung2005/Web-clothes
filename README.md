@@ -2,7 +2,8 @@ Giới thiệu
 
 Chào mừng bạn đến với dự án của Nhóm 4! Chúng tôi là một nhóm gồm 4 thành viên đang theo học lớp 23IT1, với mục tiêu xây dựng một trang web bán quần áo trực tuyến nhằm mang đến trải nghiệm mua sắm dễ dàng và hiện đại.
 
-Thành viên nhóm:<br>
+Thành viên nhóm:
+
 &nbsp;&nbsp;&nbsp;&nbsp;1. Nguyễn Tuấn Hưng<br>
 &nbsp;&nbsp;&nbsp;&nbsp;2. Vương Gia Huy<br>
 &nbsp;&nbsp;&nbsp;&nbsp;3. Bùi Tuấn Anh<br>
